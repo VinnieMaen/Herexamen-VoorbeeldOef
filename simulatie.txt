@@ -1,0 +1,35 @@
+2
+nietVertrokken 2
+schiet 1 1
+schiet 3 0
+schiet 4 1
+schiet 1 1
+schiet 5 0
+schiet 6 0
+schiet 3 1
+schiet 7 0
+schiet 4 1
+schiet 8 1
+schiet 5 0
+finish 1 1271
+schiet 9 2
+schiet 6 1
+schiet 10 0
+schiet 7 0
+finish 4 1349.9
+finish 3 1351.1
+schiet 11 0
+schiet 8 1
+schiet 12 0
+finish 5 1404.3
+finish 6 1417.2
+schiet 9 0
+finish 7 1427
+schiet 10 1
+schiet 11 0
+schiet 12 2
+finish 8 1474.3
+finish 9 1478.2
+finish 11 1522.1
+finish 10 1526.8
+finish 12 1615.7
